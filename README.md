@@ -1,16 +1,39 @@
-# flux_cloud
+# flux_cloud_note
 
-A new Flutter project.
+A new Flutter project where exploring Firebase Cloud Firestore in Flutter
+
+#
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Add Firebase to your Flutter App
+[This official site helps to do the firebase setup](https://firebase.google.com/docs/flutter/setup?platform=android)
 
-A few resources to get you started if this is your first Flutter project:
+For help getting started with Flutter, view online [documentation](https://flutter.dev/).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### [Setup Flutter](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Clone the repo 
+    $ git clone https://github.com/devkishor8007/flux_cloud_note.git
+    $ cd flux_cloud_note/
+
+#### Get flutter dependencies
+    $ flutter pub get
+    
+#### Run the app
+     $ flutter run
+     
+#
+
+### Features
+
+- User can do Anonymously Login, Logout the app.
+- User can do CRUD operations.
+
+#
+
+### Resources
+- [Flutter Docs](https://flutter.dev/docs)
+- [FlutterFire Docs](https://firebase.flutter.dev/docs/overview/)
+- [Cloud Firestore Docs](https://firebase.google.com/docs/firestore/)
+
